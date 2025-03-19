@@ -5,23 +5,6 @@
 🚀 FastAPI + React Chat App
 This is a real-time chat application built with FastAPI for the backend and React for the frontend. It includes features like WebSockets for real-time communication, user authentication, private messaging, and database storage using PostgreSQL.
 
-📦 project-root
-├── backend
-│   ├── main.py
-│   ├── auth.py
-│   ├── database.py
-│   ├── models.py
-│   ├
-│   │ 
-│   │ 
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── App.js
-│   │   ├── index.js
-├── .env
-├── README.md
-
 
 🚀 Features
 ✅ Backend (FastAPI)
