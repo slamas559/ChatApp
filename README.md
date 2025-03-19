@@ -143,6 +143,6 @@ Thanks to the FastAPI and React communities for their amazing work!
 
 
 🎯 Contact
-Your Name – LinkedIn – your.email@example.com
+abdulsalam – https://www.linkedin.com/in/salam-abdulsalam-5a0b08278/ – abdulsalamabayomi300@gmail.com
 
-
+    
